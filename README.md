@@ -15,3 +15,4 @@ Peter De Tender | [@pdtit](https://twitter.com/pdtit)    | [@pdtit@mastodon.soci
 Thomas Vochten | [@thomasvochten](https://twitter.com/thomasvochten)    | [@thomasvochten@mastodon.online](https://mastodon.online/@thomasvochten) | NA | NA
 Nicholas Chang | [@nick_cloudops](twitter.com/nick_cloudops) | [@nick_cloudops@hachyderm.io](https://hachyderm.io/web/@nick_cloudops) | NA | NA
 Marcin Siewnicki | [@marcinsiewnicki](https://twitter.com/MarcinSiewnicki)|[@marcinsiewnicki@mathstodon.xyz ](https://mathstodon.xyz/web/@marcinsiewnicki)|NA|NA
+Raphael Köllner| [@ra_koellner](https://twitter.com/ra_koellner)|[@rakoellner@legal.social ]
